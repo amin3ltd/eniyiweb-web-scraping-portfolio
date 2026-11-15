@@ -104,7 +104,7 @@ python main.py --url "https://example.com/products" --output data.csv
 
 Available for freelance projects on Upwork.
 
-**GitHub:** [github.com/eniyiweb](https://github.com/eniyiweb)
+**GitHub:** [github.com/amin3ltd](https://github.com/amin3ltd)
 
 ---
 
